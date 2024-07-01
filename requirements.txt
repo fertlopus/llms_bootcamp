@@ -5,3 +5,5 @@ elasticsearch
 scikit-learn
 numpy
 pandas
+python-docx
+python-dotenv
