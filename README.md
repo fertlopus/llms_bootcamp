@@ -7,7 +7,7 @@ It is unforked because of various reasons, but mainly because I want to keep my 
 Also you will find code optimizations and additional comments in the code that were originally not present in the course notebooks.
 
 ## Table of Contents
-1. [01-LLMs-Bootcamp](01-LLMs-RAGs)
+1. [01-LLMs-RAGs](01-LLMs-RAGs)
 
 
 ## Homeworks:
