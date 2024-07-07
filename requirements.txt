@@ -8,3 +8,6 @@ pandas
 python-docx
 python-dotenv
 tiktoken
+transformers
+accelerate
+bitsandbytes
