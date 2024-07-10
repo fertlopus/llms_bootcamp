@@ -11,3 +11,5 @@ tiktoken
 transformers
 accelerate
 bitsandbytes
+sentence_transformers
+plotly
